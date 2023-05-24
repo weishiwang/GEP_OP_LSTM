@@ -1,0 +1,10 @@
+2022-12-30 15:16:43,202 - log : pastamer: {'Active_function': 3, 'Mini_batch': 4, 'Optimizer': 0, 'drop_rate': 0.9420112120164587, 'hidden_size': 134, 'n_neurouse': 44},loss: 8.269314035773277
+2022-12-30 15:18:12,578 - log : pastamer: {'Active_function': 3, 'Mini_batch': 0, 'Optimizer': 1, 'drop_rate': 0.0028685102618887237, 'hidden_size': 119, 'n_neurouse': 125},loss: 179.66130800778046
+2022-12-30 15:18:12,578 - log : pastamer: {'Active_function': 3, 'Mini_batch': 0, 'Optimizer': 1, 'drop_rate': 0.0028685102618887237, 'hidden_size': 119, 'n_neurouse': 125},loss: 179.66130800778046
+2022-12-30 15:20:11,054 - log : pastamer: {'Active_function': 4, 'Mini_batch': 0, 'Optimizer': 2, 'drop_rate': 0.46081033001174765, 'hidden_size': 21, 'n_neurouse': 171},loss: 71.35633675474674
+2022-12-30 15:20:11,054 - log : pastamer: {'Active_function': 4, 'Mini_batch': 0, 'Optimizer': 2, 'drop_rate': 0.46081033001174765, 'hidden_size': 21, 'n_neurouse': 171},loss: 71.35633675474674
+2022-12-30 15:20:11,054 - log : pastamer: {'Active_function': 4, 'Mini_batch': 0, 'Optimizer': 2, 'drop_rate': 0.46081033001174765, 'hidden_size': 21, 'n_neurouse': 171},loss: 71.35633675474674
+2022-12-30 15:21:45,800 - log : pastamer: {'Active_function': 0, 'Mini_batch': 5, 'Optimizer': 1, 'drop_rate': 0.2796406876235691, 'hidden_size': 137, 'n_neurouse': 182},loss: 11.647412523627281
+2022-12-30 15:21:45,800 - log : pastamer: {'Active_function': 0, 'Mini_batch': 5, 'Optimizer': 1, 'drop_rate': 0.2796406876235691, 'hidden_size': 137, 'n_neurouse': 182},loss: 11.647412523627281
+2022-12-30 15:21:45,800 - log : pastamer: {'Active_function': 0, 'Mini_batch': 5, 'Optimizer': 1, 'drop_rate': 0.2796406876235691, 'hidden_size': 137, 'n_neurouse': 182},loss: 11.647412523627281
+2022-12-30 15:21:45,800 - log : pastamer: {'Active_function': 0, 'Mini_batch': 5, 'Optimizer': 1, 'drop_rate': 0.2796406876235691, 'hidden_size': 137, 'n_neurouse': 182},loss: 11.647412523627281
